@@ -8,5 +8,5 @@ The project consist to write three independent programs in three separate direct
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Java Programming Language</b> 
+- <b>Matlab</b>
